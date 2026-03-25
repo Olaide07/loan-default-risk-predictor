@@ -50,6 +50,12 @@ This project builds a predictive model to identify high-risk borrowers using a r
 
 ---
 
+## Live Demo
+
+[Click here to try the app](https://loan-default-risk-predictor.streamlit.app/)
+
+```
+
 ## Model Performance
 
 The model was optimized for recall to minimize false negatives (missed defaulters), which is crucial in financial risk systems.
